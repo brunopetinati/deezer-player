@@ -4,7 +4,7 @@ import { addSongs } from "./actions";
 
 export const addSongsThunk = (setError) => (dispatch) => {
   axios
-    .get(`https://sleepy-sea-69639.herokuapp.com/https://api.deezer.com/playlist/3155776842`)
+    .get(`https://sleepy-sea-69639.herokuapp.com/https://api.deezer.com/playlist/7932030762`)
     .then((res) => {
       dispatch(addSongs(res.data.tracks.data));
     })
