@@ -1,3 +1,10 @@
+This project can be seen on
+
+https://deezer-player.vercel.app/
+
+The repository is being updated, so is the project. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
